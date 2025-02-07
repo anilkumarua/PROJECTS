@@ -8,4 +8,4 @@
 This dashboard helps the Blinkit understand their customers better. It helps the Blinkit know if their customers are satisfied with their services. Through different ratings.
 
 snap of Blinkit Analysis,
-![Image](https://github.com/user-attachments/assets/d7bfdc62-549f-4555-95c1-48110265127e)
+![Image](https://github.com/user-attachments/assets/81009eda-b0f1-4898-9a97-ebc83849caad)
